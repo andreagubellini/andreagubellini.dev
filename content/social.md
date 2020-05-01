@@ -1,6 +1,6 @@
 ---
 title: Social
-date: 
+date: 2
 
 ---
 [Linkedin](https://www.linkedin.com/in/andrea-gubellini-212b0551/ "linkedin")
