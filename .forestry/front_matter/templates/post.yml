@@ -19,3 +19,4 @@ fields:
   label: author
 pages:
 - content/posts/hey.md
+- content/posts/il-mio-nuovo-post.md
