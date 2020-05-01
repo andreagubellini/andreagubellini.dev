@@ -1,6 +1,6 @@
 ---
 title: Social
-date: 2
+date: 2020-05-01T00:41:00+00:00
 
 ---
 [Linkedin](https://www.linkedin.com/in/andrea-gubellini-212b0551/ "linkedin")
