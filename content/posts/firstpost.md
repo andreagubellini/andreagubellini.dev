@@ -10,7 +10,6 @@ tags:
 - blog
 author: Andrea Gubellini
 draft: false
-
 ---
 Hey and welcome to my blog.
 
