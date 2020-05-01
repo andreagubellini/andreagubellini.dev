@@ -1,0 +1,3 @@
+[submodule "themes/shelly"]
+	path = themes/shelly
+	url = https://github.com/andreagubellini/shelly.git
