@@ -9,6 +9,7 @@ tags:
 - hugo
 - blog
 author: Andrea Gubellini
+post: True
 draft: false
 ---
 Hey and welcome to my blog.
